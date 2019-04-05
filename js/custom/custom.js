@@ -18,7 +18,7 @@ jQuery(document).ready(function() {
     // SYNC AJAX REQUEST
     jQuery.ajax({
       type: "post",
-      url: "http://melody.ancorathemes.com/wp-admin/admin-ajax.php",
+      url: "https://demusicnavigators.com/wp-admin/admin-ajax.php",
       dataType: 'json',
       data: data,
       async: false,
