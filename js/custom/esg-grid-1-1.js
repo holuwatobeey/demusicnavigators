@@ -94,7 +94,7 @@ jQuery(document).ready(function() {
     lazyLoad: "off",
     row: 3,
     loadMoreAjaxToken: "e7b1f11afa",
-    loadMoreAjaxUrl: "https://demusicnavigators.com/wp-admin/admin-ajax.php",
+    loadMoreAjaxUrl: "http://melody.ancorathemes.com/wp-admin/admin-ajax.php",
     loadMoreAjaxAction: "Essential_Grid_Front_request_ajax",
     ajaxContentTarget: "ess-grid-ajax-container-",
     ajaxScrollToOffset: "0",
